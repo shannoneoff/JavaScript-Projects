@@ -2,8 +2,8 @@ window.alert("Hello and welcome!")                          //Upon loading the p
 
 var Sent1 = "This is the beginning of the string"           //First variable defined
 var Sent2 = " and this is the end of the string.  "         //Second variable defined
-document.write(Sent1                                       //Concatenated string
-    + Sent2);                                              //to be displayed
+document.write(Sent1                                        //Concatenated string
+    + Sent2);                                               //to be displayed
 
 document.write(7 + 5);                                      //The sum of this equation will be displayed
 
