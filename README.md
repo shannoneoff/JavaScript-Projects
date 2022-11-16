@@ -32,8 +32,9 @@ Features:
 - Form validation via JavaScript function
 - CSS form styling
 
-## **[Onclick, Data-](HTML_3.html)**
+## **[XML](HTML_3.html)**
 Features:
+- XML language
 - Use of onclick
 - Use of this
 - Use of data-
